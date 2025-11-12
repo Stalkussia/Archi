@@ -1,0 +1,14 @@
+/Users/macbook/Desktop/C# projects/PatternGenerator/bin/Debug/net9.0/PatternGenerator
+/Users/macbook/Desktop/C# projects/PatternGenerator/bin/Debug/net9.0/PatternGenerator.deps.json
+/Users/macbook/Desktop/C# projects/PatternGenerator/bin/Debug/net9.0/PatternGenerator.runtimeconfig.json
+/Users/macbook/Desktop/C# projects/PatternGenerator/bin/Debug/net9.0/PatternGenerator.dll
+/Users/macbook/Desktop/C# projects/PatternGenerator/bin/Debug/net9.0/PatternGenerator.pdb
+/Users/macbook/Desktop/C# projects/PatternGenerator/obj/Debug/net9.0/PatternGenerator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Desktop/C# projects/PatternGenerator/obj/Debug/net9.0/PatternGenerator.AssemblyInfoInputs.cache
+/Users/macbook/Desktop/C# projects/PatternGenerator/obj/Debug/net9.0/PatternGenerator.AssemblyInfo.cs
+/Users/macbook/Desktop/C# projects/PatternGenerator/obj/Debug/net9.0/PatternGenerator.csproj.CoreCompileInputs.cache
+/Users/macbook/Desktop/C# projects/PatternGenerator/obj/Debug/net9.0/PatternGenerator.dll
+/Users/macbook/Desktop/C# projects/PatternGenerator/obj/Debug/net9.0/refint/PatternGenerator.dll
+/Users/macbook/Desktop/C# projects/PatternGenerator/obj/Debug/net9.0/PatternGenerator.pdb
+/Users/macbook/Desktop/C# projects/PatternGenerator/obj/Debug/net9.0/PatternGenerator.genruntimeconfig.cache
+/Users/macbook/Desktop/C# projects/PatternGenerator/obj/Debug/net9.0/ref/PatternGenerator.dll
