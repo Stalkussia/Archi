@@ -10,15 +10,17 @@ Save the pattern to a text file (patterns.txt) for later viewing
 
 Available Patterns:
 
-Triangle
+1.Triangle
 
-Inverted Triangle
+2.Inverted Triangle
 
-Pyramid
+3.Pyramid
 
-Inverted Pyramid
+4.Inverted Pyramid
 
-Square
+5.Square
+
+
 
 🎯 Features
 
@@ -34,6 +36,8 @@ Input validation ensures smooth usage
 
 Program runs continuously until the user chooses to exit
 
+
+
 🛠 How to Run
 
 Ensure .NET SDK 6 or higher is installed.
@@ -43,6 +47,7 @@ Open a terminal in the project directory.
 Run the program:
 
 dotnet run
+
 
 
 Follow the prompts:
@@ -55,31 +60,6 @@ The pattern will be printed and saved
 
 To exit, select option 6 from the menu
 
-📌 Example Output
-
-Triangle (size 5):
-
-*
-**
-***
-****
-*****
-
-
-Pyramid (size 4):
-
-   *
-  ***
- *****
-*******
-
-
-Inverted Pyramid (size 4):
-
-*******
- *****
-  ***
-   *
 
 
 All patterns are also saved in patterns.txt for future reference.
